@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="lbl_nome">Nome:</string>
+    <string name="lbl_email">E-mail:</string>
+    <string name="lbl_enviar">Enviar</string>
+
+</resources>
